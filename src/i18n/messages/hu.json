@@ -1,0 +1,19 @@
+{
+  "date-published": "Közzététel dátuma",
+  "author": "Szerző",
+  "page-not-found": "Ez az oldal nem található.",
+  "go-home": "Főoldalra",
+  "loading": "Betöltés, kérjük várjon...",
+  "posts": "Bejegyzések",
+  "post": "Bejegyzés",
+  "showing": "Megjelenítés",
+  "of": "/",
+  "search": "Keresés",
+  "dashboard": "Irányítópult",
+  "previous": "Előző",
+  "next": "Következő",
+  "more-pages": "További oldalak",
+  "auto": "Automatikus",
+  "light": "Világos",
+  "dark": "Sötét"
+}
