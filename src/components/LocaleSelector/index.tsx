@@ -6,7 +6,7 @@ import { useParams } from 'next/navigation'
 import { usePathname, useRouter } from '@/i18n/routing'
 import { TypedLocale } from 'payload'
 import localization from '@/i18n/localization'
-import { cn } from '@/utilities/cn'
+import { cn } from '@/utilities/ui'
 import {
   Select,
   SelectContent,

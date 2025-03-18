@@ -1,6 +1,6 @@
 'use client'
 
-import { cn } from '@/utilities/cn'
+import { cn } from '@/utilities/ui'
 import {
   Select,
   SelectContent,
